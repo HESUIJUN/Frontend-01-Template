@@ -97,5 +97,7 @@
 - 时间零碎-东西要学的体系
 
 - 前端知识完备性：父节点与子节点之间不会再有其他东西，
+
 ## xMind 脑图知识总结
-![](https://github.com/HESUIJUN/Frontend-01-Template/master/week01/images/technology.png)
+
+![](./images/technology.png)
